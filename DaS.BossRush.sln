@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DaS.BossRush", "DaS.BossRush\DaS.BossRush.vbproj", "{A9E5F8D0-D9CF-4FBE-973A-9C6C133E1D59}"
 EndProject
@@ -10,6 +10,12 @@ EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DaS.ScriptEditor", "DaS.ScriptEditor\DaS.ScriptEditor.vbproj", "{8D828E39-8259-4216-9D86-EE4700EC66DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutocompleteMenuNS", "Lib\AutocompleteMenuNS\AutocompleteMenuNS.csproj", "{43CBC9AA-6A8E-463F-83A9-AFF3124AFDB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Managed.X86", "Lib\Managed.X86\Managed.X86.csproj", "{1AAF4B4D-2986-4F56-BEBC-EEC6EA0EE435}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{B4A47DD6-DCB7-4F69-9104-28F7F14FE9F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{493E4616-0BE8-4670-AA9C-6A66803B5C2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +39,22 @@ Global
 		{43CBC9AA-6A8E-463F-83A9-AFF3124AFDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CBC9AA-6A8E-463F-83A9-AFF3124AFDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CBC9AA-6A8E-463F-83A9-AFF3124AFDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAF4B4D-2986-4F56-BEBC-EEC6EA0EE435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAF4B4D-2986-4F56-BEBC-EEC6EA0EE435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAF4B4D-2986-4F56-BEBC-EEC6EA0EE435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAF4B4D-2986-4F56-BEBC-EEC6EA0EE435}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9E5F8D0-D9CF-4FBE-973A-9C6C133E1D59} = {493E4616-0BE8-4670-AA9C-6A66803B5C2C}
+		{2A373330-933C-4A80-ADFB-39F5E0ECBC35} = {493E4616-0BE8-4670-AA9C-6A66803B5C2C}
+		{8D828E39-8259-4216-9D86-EE4700EC66DF} = {493E4616-0BE8-4670-AA9C-6A66803B5C2C}
+		{43CBC9AA-6A8E-463F-83A9-AFF3124AFDB6} = {B4A47DD6-DCB7-4F69-9104-28F7F14FE9F4}
+		{1AAF4B4D-2986-4F56-BEBC-EEC6EA0EE435} = {B4A47DD6-DCB7-4F69-9104-28F7F14FE9F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBCD9733-E3DB-4D62-8D03-48DF8B0D4B44}
 	EndGlobalSection
 EndGlobal

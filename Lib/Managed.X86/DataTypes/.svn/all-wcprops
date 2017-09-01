@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/10/trunk/DataTypes
+END
+X86Register8.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/DataTypes/X86Register8.cs
+END
+X86Label.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/DataTypes/X86Label.cs
+END
+X86ConditionCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/DataTypes/X86ConditionCode.cs
+END
+X86Address.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/DataTypes/X86Address.cs
+END
+X86ShiftOpCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/DataTypes/X86ShiftOpCode.cs
+END
+X86Register32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/DataTypes/X86Register32.cs
+END
+X86Register16.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/DataTypes/X86Register16.cs
+END

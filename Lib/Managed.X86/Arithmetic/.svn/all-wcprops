@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/Arithmetic
+END
+X86Writer.Decrement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Decrement.cs
+END
+X86Writer.Subtract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Subtract.cs
+END
+X86Writer.Add.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/Arithmetic/X86Writer.Add.cs
+END
+X86Writer.Multiply.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Multiply.cs
+END
+X86Writer.Not.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Not.cs
+END
+X86Writer.Negate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Negate.cs
+END
+X86Writer.Division.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Division.cs
+END
+X86Writer.Increment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.Increment.cs
+END
+X86Writer.AddWithCarry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/Arithmetic/X86Writer.AddWithCarry.cs
+END
